@@ -9,4 +9,4 @@
  */
 
 rootProject.name = "java-examples"
-include("my-library")
+include("app")
